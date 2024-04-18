@@ -1,0 +1,43 @@
+1713404230396	geckodriver	INFO	Listening on 127.0.0.1:52080
+1713404233485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joao_\\AppData\\Local\\Temp\\rust_mozprofile4iEAbD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713404234150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713404234571	Marionette	INFO	Listening on port 52092
+Read port: 52092
+1713404234780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nba.com/qx9CyrX_FrUEumrpCEwI/makOV6XEYf9Y/WTAXAg/aW/V3Lkt-ZBU, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/qx9CyrX_FrUEumrpCEwI/makOV6XEYf9Y/WTAXAg/aW/V3Lkt-ZBU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional?PerMode=Totals&dir=A&sort=PTS line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/qx9CyrX_FrUEumrpCEwI/makOV6XEYf9Y/WTAXAg/aW/V3Lkt-ZBU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/qx9CyrX_FrUEumrpCEwI/makOV6XEYf9Y/WTAXAg/aW/V3Lkt-ZBU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1713404245935	Marionette	INFO	Stopped listening on port 52092
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+Dynamically enable window occlusion 1
+1713404398346	geckodriver	INFO	Listening on 127.0.0.1:54926
+1713404401423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\joao_\\AppData\\Local\\Temp\\rust_mozprofilep0Rvs4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1713404401838	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1713404402151	Marionette	INFO	Listening on port 54938
+Read port: 54938
+1713404402312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.nba.com/qx9CyrX_FrUEumrpCEwI/makOV6XEYf9Y/WTAXAg/aW/V3Lkt-ZBU, line 1: unreachable code after return statement
+JavaScript warning: https://www.nba.com/_next/static/chunks/main-878323283d90b24a.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.adobedtm.com/82bf3c13a525/38d894c71c0b/launch-ff3828f362fb.min.js, line 9: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/qx9CyrX_FrUEumrpCEwI/makOV6XEYf9Y/WTAXAg/aW/V3Lkt-ZBU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.nba.com/stats/players/traditional?PerMode=Totals&dir=A&sort=PTS line 2 > injectedScript, line 2: TypeError: amplitude._instances is undefined
+JavaScript warning: https://www.nba.com/qx9CyrX_FrUEumrpCEwI/makOV6XEYf9Y/WTAXAg/aW/V3Lkt-ZBU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/qx9CyrX_FrUEumrpCEwI/makOV6XEYf9Y/WTAXAg/aW/V3Lkt-ZBU, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.nba.com/newrelic/newrelic-prod.js, line 2: Script terminated by timeout at:
+nrWrapper@https://www.nba.com/newrelic/newrelic-prod.js:2:25922
+
+1713404411282	Marionette	INFO	Stopped listening on port 54938
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
